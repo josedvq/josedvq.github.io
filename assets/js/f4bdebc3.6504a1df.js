@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[9093],{6878:l=>{l.exports=JSON.parse('{"label":"verilog","permalink":"/blog/tags/verilog","allTagsPath":"/blog/tags","count":1}')}}]);
