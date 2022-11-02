@@ -2,19 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://josedvq.github.io/blog</id>
     <title>Jose Vargas-Quiros Blog</title>
-    <updated>2022-10-22T00:00:00.000Z</updated>
+    <updated>2013-09-09T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://josedvq.github.io/blog"/>
     <subtitle>Jose Vargas-Quiros Blog</subtitle>
     <icon>https://josedvq.github.io/img/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[good-researcher]]></title>
-        <id>/2022/10/22/good-researcher</id>
-        <link href="https://josedvq.github.io/blog/2022/10/22/good-researcher"/>
-        <updated>2022-10-22T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Finding an answer to the question of what makes a good researcher requires a personal judgement about the kind of research that is beneficial to science.]]></summary>
-        <content type="html"><![CDATA[<p>Finding an answer to the question of what makes a good researcher requires a personal judgement about the kind of research that is beneficial to science.</p><p>An undisputed characteristic of good research is that it must be correct. To produce correct research, a researcher needs to be strict in his work and methodical in his application of science. Once a research question is specified, a good researcher should be able to make the decisions that lead to answering it, if at all possible. These include operationalizing the variables involved, identifying and controlling biases, deciding on an experiment setup, conducting the study itself and using the appropriate analysis methods. Feedback from others is crucial in this process, in detecting potential sources of bias in an experiment setup. </p><p>There is little dispute about the previous aspects. Good-willed researchers spend most of their time learning this process, ie. lerning <em>how to do research</em>. However, a much less emphasized skill of a good researcher is knowing <em>what to research</em>. I’m not talking here only about learning to formulate valid research questions. I’m talking about learning to steer one's research in directions that maximize its potential impact.</p><p>I like to think of researches as modern explorers. Although humankind is nearly finished exploring the surface of the Earth, the space of possible human knowledge is only starting to be explored. Researchers embark into a sea of non-interesting facts in search of knowledge that is both new and relevant. The explorer, as the researcher, may get lucky and reach lands he/she did not expect to find, but most of the time he/she has at least the merit of setting a reasonable course, and maning his/her ship to the destination safely. Scientists, as explorers, vary widely in the degree of risks they are willing to take when setting such course.</p><p>Some explorers (eg. Cristopher Columnus) are known thanks to their decision to venture into uncharted territories at their own risk. These explorers normally made contributions so big that they had to leave the details to others. These explorers had the intuition and the bravery to go looking in areas nobody had looked before. Some found surprises, even if by mistake, but it's not hard to imagine that many were not lucky. This can correspond to either a wreckless researcher who makes an amazing discovery by accident, or a researcher who focuses his efforts in understanding the most relevant assumptions in his field, and challenging them when appropriate. This last researcher is the one who casts doubt on fundamental claims, and, not through luck but through ability and persistence is able to make relevant discoveries.</p>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Responsive CSS triangles]]></title>
         <id>responsive-css-triangles</id>
